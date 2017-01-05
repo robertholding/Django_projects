@@ -1,0 +1,7 @@
+#file ignore in ubuntu
+*.iml
+*.xml
+*.[ao]
+.idea
+*.md
+*.pyc
